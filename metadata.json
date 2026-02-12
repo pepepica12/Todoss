@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Advanced Search",
+  "description": "A cutting-edge AI-powered search platform using Gemini 3 Flash and Google Search Grounding for real-time, accurate, and cited information.",
+  "requestFramePermissions": []
+}
